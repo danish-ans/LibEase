@@ -3,7 +3,7 @@
 LibEase is a command-line application designed to facilitate the management of books within a library. 
 Developed in C++, this system offers a comprehensive suite of functionalities to streamline the process of adding, displaying, searching, borrowing, and returning books.
 Additionally, it provides robust user management capabilities, enabling the creation and modification of user profiles.
-
+![](img/banner.png)
 ## Features
 
 - **Add User**: Register new users into the system, complete with detailed profiles.

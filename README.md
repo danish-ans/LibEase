@@ -54,4 +54,4 @@ mingw32-make clean-data-folder
 ```
 
 ### Run the exectable file
-In the ./bin folder of your root directory find the library_system.exe file and run it.
+In the /bin folder of your root directory find the library_system.exe file and run it.

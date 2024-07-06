@@ -10,6 +10,7 @@ private:
   string name;
   string password;
 
+
 public:
   User(string name, string password)
   {
